@@ -94,4 +94,59 @@
   .rest-body{
     margin-top: 12px;
   }
+
+  
+  .handpicker-list-column1
+  {
+    width: 29.33%;
+  }
+
+  .handpicker-list-column2
+  {
+    width: 32.33%;
+  }
+
+  .handpicker-list-column3
+  {
+    width: 29.33%;
+  }
+
+
+  .handpicked-item-hover{
+      top:6px; 
+      left: 6px; 
+      
+  }
+  
+  .handpicked-item-no-hover{
+
+     top:6px; 
+     left: 6px; 
+  }
+
+  .handpicked-item-hover2{
+
+     top:6px; 
+     left: 5px; 
+  
+  }
+  
+  
+  .handpicked-item-no-hover2{
+    top:6px; 
+    left: 5px; 
+  }
+
+  .sub-groups{
+    font-size: 20px;
+  }
+
+  .handpicked-container{
+    margin-top: 38px;
+  }
+
+  .handpickedImage2{
+    height: 270px;
+  }
+  
 }

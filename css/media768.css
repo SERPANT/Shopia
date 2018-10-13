@@ -98,5 +98,53 @@
     margin-left: -20px;
     background-image: url(../images/offerimage3768.png);
   }
+
   
+  .handpicker-list-column1
+  {
+    width: 30.33%;
+  }
+
+  .handpicker-list-column2
+  {
+    width: 35.33%;
+  }
+
+  .handpicker-list-column3
+  {
+    width: 30.33%;
+  }
+
+
+  .handpicked-item-hover{
+    width: 88.3%;
+     height: 84.78802% ;
+      top:12px; 
+      left: 8px; 
+      
+  }
+  
+  .handpicked-item-no-hover{
+     width: 88.3%;
+     height: 84.78802% ;
+     top:12px; 
+     left: 8px; 
+  }
+
+  .handpicked-item-hover2{
+    width: 90.3%;
+    height: 92.39853301%;
+     top:16px; 
+     left: 9px; 
+  
+  }
+  
+  
+  .handpicked-item-no-hover2{
+    width: 90.3%;
+   height: 92.39853301%;
+    top:16px; 
+    left: 9px; 
+ 
+  }
 }
