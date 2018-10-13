@@ -1,0 +1,97 @@
+@media only screen and (max-width: 480px) {
+ 
+  .main-container{
+    width: 30em;
+    overflow: hidden;
+  }
+
+  .contact{
+    display: none;
+  }
+
+  .login{
+    width: 100%;
+  }
+
+  .dashed-before::before{
+    margin-left: 20px;
+    margin-right: 20px;  
+  }
+
+  .nav-bar{
+    margin-top: 5px;
+    width: 100%;
+    float: none;
+  }
+
+  .icon{
+    float: none;
+    margin-left: 30%;;
+  }
+
+
+  .nav-icon{
+    width:100%;
+   padding-left:0px
+  }
+  
+
+  
+  .offer-text{
+    float: left;
+    margin-left: 20px;
+  }
+  
+  .offer-one{
+    width:100%;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  
+  .offer-two{
+    width:100%;
+    padding-left: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  
+ 
+  
+  .offer-title{
+    font-size: 15px;
+  }
+  
+  
+  .offer-detail{
+    font-size: 10px;
+  }
+  
+  .offer-icon{
+    font-size: 15px;
+  }
+  
+  
+
+  .offer-one-list{
+    width: 45%;
+    background-image: url(../images/offerimage1768.png);
+    background-repeat: no-repeat;
+  }
+  
+  
+  .offer-two-list{
+    width: 45%;
+    background-image: url(../images/offerimage2768.png);
+    margin-left: 0px;
+  
+  }
+  
+  .offer-three-list{
+    display: none
+  }
+
+  .rest-body{
+    margin-top: 12px;
+  }
+}

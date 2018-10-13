@@ -1,0 +1,102 @@
+@media only screen and (max-width: 768px) {
+ 
+  .main-container{
+    width: 48em;
+    overflow: hidden;
+  }
+
+  .contact{
+    width: 20.07751938%;
+  }
+  
+  .nav-item a{
+    font-size: 12px; 
+  }
+
+  .nav-bar{
+    margin-top: 5px;
+    width: 100%;
+  }
+
+  .slider{
+    width: 100%;
+    overflow: hidden
+  }
+
+  .socialMedia{
+    display: none;
+  }
+  
+
+  .icon{
+    font-size: 52px;
+    margin-top: 20px;
+  }
+
+
+  .offer-icon{
+    float: left;
+  }
+  
+  .offer-text{
+    float: left;
+    margin-left: 20px;
+  }
+  
+  .offer-one{
+    width:100%;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  
+  .offer-two{
+    width:100%;
+    padding-left: 0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  
+  .offer-three{
+    width:100%;
+    padding-left: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  
+  .offer-title{
+    font-size: 18px;
+  }
+  
+  
+  .offer-detail{
+    font-size: 10px;
+  }
+  
+  .offer-icon{
+    font-size: 28px;
+  }
+  
+  
+
+  .offer-one-list{
+  
+    background-image: url(../images/offerimage1768.png);
+    background-repeat: no-repeat;
+  }
+  
+  
+  .offer-two-list{
+
+    background-image: url(../images/offerimage2768.png);
+    margin-left: -20px;
+  
+  }
+  
+  .offer-three-list{
+
+    margin-left: -20px;
+    background-image: url(../images/offerimage3768.png);
+  }
+  
+}

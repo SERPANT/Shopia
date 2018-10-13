@@ -1,0 +1,46 @@
+.main-container{
+ 
+  width: 90em;
+  margin:0 auto;
+  background: green
+}
+
+.header{
+  width: 100%;
+}
+
+.limiter-container{
+  margin:0 auto;
+  width: 89.5833333333%;
+}
+
+.contact-login{
+  background: #f2f2f2;
+  padding-top: 12px;
+  width: 100%;
+  padding-bottom: 14px;
+}
+
+.nav-icon-socialMedia{
+
+  width: 100%;
+  margin-top: 10px;
+}
+
+.nav-item a:hover{
+  text-decoration: underline;
+}
+
+
+.gray{
+  background: #f2f2f2;
+}
+
+.body-part{
+  margin-top: -6px;
+}
+
+
+.rest-body{
+  margin-top: 62px;
+}
