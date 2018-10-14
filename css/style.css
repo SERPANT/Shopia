@@ -576,3 +576,179 @@
 .summer-list-item{
   width: 23.43992549%;
 }
+
+
+.extra-footer-left-list-distance{
+  margin-left: 17.58181818%;
+}
+
+.footer-upper-left-title{
+  color: white;
+  font-size: 16px;
+  font-family: lato-bold;
+}
+
+.footer-upper-left-item {
+  font-size: 14px;
+  font-family: lato-reg;
+}
+
+.footer-upper-left-item a{
+  color:#666666;
+}
+
+.footer-upper-left-item a:hover{
+  color:white;
+  text-decoration: underline
+}
+
+.dis-from-title{
+  margin-top: 46px;
+}
+
+.step-dis{
+  margin-top: 14px;
+}
+
+.social-icon-footer-item{
+  background: white;
+  padding:10px;
+  font-size: 24px;
+  padding-left: 12px;
+  padding-right: 15px;
+  border-radius: 100%;
+  margin-left: 15px;
+}
+
+.social-icon-footer-item-top:hover{
+  background: black;
+  color: white;
+  cursor: pointer;
+}
+
+
+.social-icon-footer-item-top{
+  background: white;
+  padding:10px;
+  font-size: 24px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 100%;
+
+}
+
+.social-icon-footer-item:hover{
+  background: black;
+  color: white;
+  cursor: pointer;
+}
+
+
+.stay-connected{
+  font-size: 16px;
+  font-family: lato-bold;
+  color: white;
+}
+
+.subscribe-class{
+  font-size: 16px;
+  font-family: lato-bold;
+  color: white;
+  margin-top: 47px;
+  margin-left: 8px;
+}
+
+
+.italic{
+  font-family: playfair-i;
+}
+
+
+.footer-social-icon-list-container
+{
+  margin-top: 47px;
+  margin-left: 10px;
+}
+
+
+.email-box-container{
+  margin-top: 54px;
+  border-color: #333333;
+  border-style: solid;
+  width: 367px;
+  margin-left: 10px;
+  
+}
+
+.email-box-container input{
+   width:70.71823204%;
+  height:35px; 
+  margin-left: 5px;
+  background: rgba(0, 0, 0, 0.4);
+  border-style: none;
+  font-family: lato-reg;
+  font-size: 12px;
+}
+
+.email-box-container input:focus{
+  outline: none;
+  color: white;
+}
+
+
+.email-box-container button{
+  cursor: pointer;
+  background: #333333;
+  border-style: none;
+  padding:8px;
+  margin:2px;
+  color: white;
+  font-family: lato-reg;
+  font-size: 12px;
+  width: 25.5%;
+}
+
+.email-box-container button:focus{
+  outline: none
+}
+
+.email-box-container button:hover{
+  background: white;
+  color: #333333;
+}
+
+.goto-top{
+  float: right;
+}
+
+.copy-right{
+  float: left;
+}
+
+
+.horizontal-Line{
+  margin-top: 71px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.copy-right p{
+  color:#666666;
+  font-size: 11px;
+  font-family: lato-reg;
+  margin-top: 10px;
+  line-height: 19px;
+}
+
+.card-icon{
+  margin-top: 28px;
+}
+
+
+.goto-top{
+  margin-top: 28px;
+}
+
+.line{
+  width: 100%;
+}

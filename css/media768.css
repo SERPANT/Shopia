@@ -200,5 +200,16 @@
   margin-top: 16px;
   margin-left: 15px;
 }
+
+.footer-upper-left{
+  float: none;
+  width: 100%;
+}
+
+.footer-upper-right{
+  float: none;
+  margin-top: 50px;
+  width: 100%;
+}
   
 }
