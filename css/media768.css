@@ -163,4 +163,19 @@
   .brand-list li{
     width: 25.80620155%;
   }
+
+  .customer1{
+    float: none;
+    margin-left: 15px;
+    margin-top: 37px;
+    width: 75%;
+    
+  }
+  
+  .customer2{
+    float: none;
+    margin-top: 31px;
+    width: 75%;
+  }
+  
 }

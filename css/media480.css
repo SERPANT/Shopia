@@ -194,4 +194,38 @@
   .brand-item3{
     margin-left:25px;
   }
+
+  .customer1{
+    float: left;
+    margin-left: 5px;
+    margin-top: 37px;
+    width: 100%;
+    
+  }
+  
+  .customer2{
+    display: none
+  }
+
+  .customer-word p{
+    font-size: 14px;
+  }
+
+  .customer-name{
+    font-size: 20px;
+    width: 100%;
+  }
+  
+  .customer-designation{
+    font-size: 12px;
+    margin-top: 15px;
+    width: 100%;
+  }
+
+  
+.customer-name-word{
+  margin-top: 36px;
+  margin-left: 15px;
+  width: 52.64184233%;
+}
 }

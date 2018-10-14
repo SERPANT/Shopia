@@ -1,8 +1,9 @@
 .main-container{
  
-  width: 90em;
+  max-width: 90em;
   margin:0 auto;
-  background: green
+  background: green;
+
 }
 
 .header{
@@ -52,6 +53,7 @@
 .Summer-collection-container{
   background: greenyellow;
   margin-top: 90px;
+  width: 100%;
 }
 
 .summer-Collection-list-container{
@@ -67,4 +69,17 @@
   margin-top: 117px;
 }
 
+.customer-says-container{
+  margin-top: 114px;
+  width: 100%;
+}
+
+
+.customer-says-content{
+  position: relative;
+  background: #cccc99;
+  width: 100%;
+  padding-bottom: 40px;
+  margin-top: 58px;
+}
 

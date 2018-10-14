@@ -437,3 +437,107 @@
   width: 100%;
 }
 
+
+.customer1{
+  float: left;
+  margin-left: 15px;
+  margin-top: 37px;
+  width: 41.74031008%;
+  
+}
+
+.customer2{
+  float: right;
+  margin-top: 31px;
+  width: 41.50775194%;
+}
+
+.customer-name-word{
+  float: right;
+  margin-top: 96px;
+  margin-left: 35px;
+  width: 52.64184233%;
+}
+
+.customer-image{
+  float: left;
+  width: 40.5%;
+}
+
+.customer-image img{
+  width: 100%;
+}
+
+.customer-name-word2{
+  float: left;
+  margin-top: 100px;
+  margin-right: 18px;
+  width: 52.93678215%;
+}
+
+.customer-image2{
+  float: right;
+  width: 43%;
+}
+.customer-image2 img{
+  width: 100%;
+}
+
+.customer-word p{
+  font-size: 18px;
+  color:white;
+  font-family: playfair-i;
+  line-height: 28px;
+}
+
+.customer-word2 p{
+  font-size: 18px;
+  color:white;
+  font-family: playfair-i;
+  text-align: right;
+  line-height: 31px;
+}
+
+
+.customer-name{
+  font-size: 30px;
+  font-family: playfair-bi;
+  width: 100%;
+}
+
+.customer-designation{
+  font-family: lato-bold;
+  font-size: 14px;
+  color:#666666;
+  margin-top: 15px;
+  width: 100%;
+}
+
+.customer-designation2{
+  font-family: lato-bold;
+  font-size: 14px;
+  color:#666666;
+  margin-top: 15px;
+  text-align: right
+}
+
+.customer-name2{
+  font-size: 30px;
+  font-family: playfair-bi;
+  text-align: right
+}
+
+
+.customer-name-designation{
+  margin-top: 53px;
+  width: 100%;
+}
+
+.customer-name-designation2{
+  margin-top: 45px;
+  margin-right: 12px;
+}
+
+.summer-collection-image{
+  width: 100%;
+}
