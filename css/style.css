@@ -274,6 +274,19 @@
 }
 
 
+/* added */
+.handpicker-list-column1{
+ width: 31%;
+}
+
+.handpicker-list-column2{
+ width: 35.73643411%;
+}
+
+.handpicker-list-column3{
+ width: 31%;
+}
+
 
 .handpicker-list-column1 ul{
  width: 100%; 
@@ -343,11 +356,11 @@
 }
 
 .handpicker-list-column2{
-  margin-left: 9px;
+  margin-left: 0.656744189%;
 }
 
 .handpicker-list-column3{
-  margin-left: 9px;
+  margin-left: 0.656744189%;
 }
 
 
