@@ -168,4 +168,30 @@
     left:40px;
     width: 66.333333333%;
   }
+
+  .brand-item{
+    margin-left: 28px;
+  }
+
+  .brand-list{
+    margin-top: 40px;
+  }
+  
+
+  .brand-list li{
+    width: 25.80620155%;
+  }
+  
+
+  .brand-item1{
+    margin-left:25px;
+  }
+  
+  .brand-item2{
+    margin-left:25px;
+  }
+  
+  .brand-item3{
+    margin-left:25px;
+  }
 }

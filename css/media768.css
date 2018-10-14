@@ -145,6 +145,22 @@
    height: 92.39853301%;
     top:16px; 
     left: 9px; 
- 
+  }
+
+  .brand-item1{
+    margin-left:40px;
+  }
+  
+  .brand-item2{
+    margin-left:40px;
+  }
+  
+  .brand-item3{
+    margin-left:40px;
+  }
+  
+
+  .brand-list li{
+    width: 25.80620155%;
   }
 }

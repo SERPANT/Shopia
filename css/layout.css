@@ -1,6 +1,6 @@
 .main-container{
  
-  max-width: 90em;
+  width: 90em;
   margin:0 auto;
   background: green
 }
@@ -62,5 +62,9 @@
   padding-top: 21px;
 }
 
+
+.brand-container{
+  margin-top: 117px;
+}
 
 
