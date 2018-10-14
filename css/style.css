@@ -246,7 +246,7 @@
 
 .handpicked-item-hover{
   width: 88.3%;
-   height: 340px ;
+   height: 84.57711443% ;
     background: rgba(0,0,0,0.4) ; 
     position: absolute; 
     top:25px; 
@@ -257,7 +257,7 @@
 
 .handpicked-item-no-hover{
    width: 88.3%;
-   height: 340px ;
+   height: 84.57711443% ;
    position: absolute; 
    top:25px; 
    left: 18px; 
@@ -332,7 +332,7 @@
 
 .handpicked-item-hover2{
   width: 90.3%;
-  height: 764px ;
+  height: 93.39853301%;
   background: rgba(0,0,0,0.4) ; 
    position: absolute; 
    top:16px; 
@@ -343,7 +343,7 @@
 
 .handpicked-item-no-hover2{
   width: 90.3%;
- height: 764px ;
+ height: 93.39853301%;
   position: absolute; 
   top:16px; 
   left: 20px; 
@@ -429,14 +429,29 @@
 
 .brand-item1{
   margin-left:23px;
+  width: 14.00620155%;
 }
 
 .brand-item2{
   margin-left:10px;
+  width: 14.00620155%;
 }
 
 .brand-item3{
   margin-left:20px;
+  width: 14.0620155%;
+}
+
+.brand-item4
+{
+  margin-left:23px;
+  width: 14.0620155%;
+}
+
+.brand-item5
+{
+  margin-left:0.550387597%;
+  width: 14.0620155%;
 }
 
 .brand-list{
