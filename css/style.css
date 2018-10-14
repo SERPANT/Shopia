@@ -388,10 +388,11 @@
   margin-top: 13px;
 }
 
+
 .add-to-cart{
   position: absolute;
-  top:305px;
-  left:40px;
+  top:86.33333%;
+  left:42px;
   width: 66.333333333%;
 }
 
@@ -540,4 +541,10 @@
 
 .summer-collection-image{
   width: 100%;
+}
+
+
+/* added */
+.summer-list-item{
+  width: 23.43992549%;
 }

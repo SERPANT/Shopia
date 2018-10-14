@@ -2,7 +2,6 @@
  
   max-width: 90em;
   margin:0 auto;
-  background: green;
 
 }
 
@@ -51,22 +50,21 @@
   margin-top: 60px;
 }
 .Summer-collection-container{
-  background: greenyellow;
   margin-top: 90px;
   width: 100%;
 }
 
 .summer-Collection-list-container{
-  background: paleturquoise;
   margin-top:50px;
   border-style: solid;
   border-width: thin;
   padding-top: 21px;
+  padding-bottom: 21px;
 }
 
 
 .brand-container{
-  margin-top: 117px;
+  margin-top: 96px;
 }
 
 .customer-says-container{
