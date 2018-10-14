@@ -174,12 +174,31 @@
   
   .customer2{
     float: none;
-    margin-top: 31px;
+    margin-top: 15px;
     width: 75%;
+    float: right;
   }
 
   .summer-list-item{
     width: 300px;
   }
+
+  .brand-item5
+{
+  margin-left:23px;
+  width: 14.0620155%;
+}
+
+.brand-item4
+{
+  margin-left:50px;
+  width: 14.0620155%;
+}
+
+.customer-name-word{
+  float: right;
+  margin-top: 16px;
+  margin-left: 15px;
+}
   
 }

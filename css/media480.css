@@ -1,7 +1,7 @@
 @media only screen and (max-width: 480px) {
  
   .main-container{
-    max-width: 30em;
+    width: 30em;
     overflow: hidden;
   }
 
@@ -232,4 +232,13 @@
 .summer-list-item{
   width: 193.63px;
 }
+
+
+.brand-item4
+{
+  margin-left:23px;
+  width: 14.0620155%;
+}
+
+
 }
