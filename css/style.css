@@ -249,7 +249,7 @@
    height: 340px ;
     background: rgba(0,0,0,0.4) ; 
     position: absolute; 
-    top:27px; 
+    top:25px; 
     left: 18px; 
     display: none;
     
@@ -259,7 +259,7 @@
    width: 88.3%;
    height: 340px ;
    position: absolute; 
-   top:27px; 
+   top:25px; 
    left: 18px; 
    border-style: solid;
    border-color: white;
@@ -303,12 +303,13 @@
 }
 
 .extra-spacing{
-  margin-top: 10px;
+  margin-top: 6px;
 }
 
 .submit-button2{
   position:absolute;
   bottom: 32px;
+  width: 30.79096045%;
   left:34.5%;
 }
 
@@ -369,3 +370,46 @@
 {
   display: none;
 } 
+
+
+
+.percent-off{
+  position: absolute;
+  top:5px;
+  left:5px;
+  width: 25.66666666%;
+}
+
+.summer-list-item{
+  margin-left: 12px;
+}
+
+.summer-collection-list2{
+  margin-top: 13px;
+}
+
+.add-to-cart{
+  position: absolute;
+  top:305px;
+  left:40px;
+  width: 66.333333333%;
+}
+
+
+.add-to-cart a img:hover{
+  content: url(../images/add-to-cart-hover.png)
+}
+
+
+.summer-collection-list1 , .summer-collection-list2{
+  width: 100%;
+}
+
+.percent-off-image{
+  width: 100%;
+}
+
+.add-to-cart-image{
+  width: 100%;
+}
+

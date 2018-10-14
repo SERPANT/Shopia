@@ -1,7 +1,7 @@
 @media only screen and (max-width: 480px) {
  
   .main-container{
-    width: 30em;
+    max-width: 30em;
     overflow: hidden;
   }
 
@@ -149,4 +149,23 @@
     height: 270px;
   }
   
+
+  .summer-collection-image{
+    width: 100%;
+  }
+
+  .summer-collection-list1 , .summer-collection-list2{
+    width: 48%;
+  }
+
+  .summer-collection-list2, .summer-collection-list1 {
+    display: inline-block;
+  }
+
+  .add-to-cart{
+    position: absolute;
+    top:193px;
+    left:40px;
+    width: 66.333333333%;
+  }
 }
