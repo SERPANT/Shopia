@@ -142,15 +142,39 @@
 
 .slider{
   width: 100%;
-  overflow: hidden
+  overflow: hidden;
+  position: relative;
+  /* height: 48.055555556%; */
+  /* height: 600px; */
 }
 
-.slider img{
+.slider  ul li {
+  margin:0px;
+  padding:0px;
+
+}
+
+
+.slider  ul li a img{
   width: 100%;
   margin:0px;
   padding:0px;
+
 }
 
+
+
+.slider-list{
+  width:400%;;
+  top:0px;
+  position: absolute;
+  transition: 3000ms;
+  left:0px;
+}
+
+.slider-list li{
+  width: 25%;
+}
 
 
 .offer-text{
@@ -752,3 +776,15 @@
 .line{
   width: 100%;
 }
+
+.triangle{
+  top:0px;
+  left:38%;
+  position: absolute;
+  width: 27.56944444%;
+}
+
+.triangle img{
+  width: 100%;
+}
+
