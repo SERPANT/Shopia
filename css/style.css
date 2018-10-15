@@ -75,9 +75,10 @@
 }
 
 .socialMedia{
-  width: 26.58139535%;
+  width: 24.58139535%;
   float:right;
   margin-top: 34px;
+  overflow: hidden;
 }
 
 .nav-item a{
@@ -93,7 +94,6 @@
 .nav-bar{
   margin-top: 27px;
   float: left;
-  /* width: 44.65052747%; */
   width: 54.65052747%;
 }
 

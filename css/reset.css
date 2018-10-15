@@ -11,16 +11,12 @@ a{
   overflow: auto;
 }
 
-
 select {
   -webkit-appearance: none;
   -moz-appearance: none;
   text-indent: 1px;
   text-overflow: '';
 }
-
-
-
 
 select:focus{
   outline: none

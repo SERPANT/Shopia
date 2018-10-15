@@ -5,6 +5,10 @@
     overflow: hidden;
   }
 
+  .reset-body{
+    overflow: hidden;
+  }
+
   .contact{
     width: 20.07751938%;
   }
@@ -16,6 +20,8 @@
   .nav-bar{
     margin-top: 5px;
     width: 100%;
+    float: none;
+    text-align: center
   }
 
   .slider{
@@ -31,6 +37,8 @@
   .icon{
     font-size: 52px;
     margin-top: 20px;
+    float: none;
+    text-align: center
   }
 
 
@@ -215,5 +223,9 @@
 
 .triangle2{
   display: none
+}
+
+.nav-icon{
+  width: 100%;
 }
 }
